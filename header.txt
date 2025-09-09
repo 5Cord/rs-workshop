@@ -1,2 +1,3 @@
 rs-shcool, git workshop
+Changes from <master> Да да, именно на <master>
 Changes from <main>
