@@ -1,1 +1,2 @@
 rs-shcool, git workshop
+Changes from <master>
