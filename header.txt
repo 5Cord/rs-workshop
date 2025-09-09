@@ -1,2 +1,2 @@
 rs-shcool, git workshop
-Changes from <master> а теперь и на <main>
+Changes from <main>
